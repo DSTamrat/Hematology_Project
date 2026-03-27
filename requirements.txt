@@ -1,5 +1,5 @@
-streamlit
-transformers
-torch
-accelerate
-sentencepiece
+streamlit==1.32.0
+transformers==4.39.3
+torch==2.2.1
+sentencepiece==0.1.99
+pandas==2.2.1
